@@ -13,7 +13,7 @@ A Java desktop application for loading, displaying, and analyzing student attend
 
 ---
 
-## 🖥 Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ A Java desktop application for loading, displaying, and analyzing student attend
 
 ---
 
-## 📐 Class Diagram
+## Class Diagram
 
 _A diagram of the application’s class structure will be shown here._
 
@@ -45,5 +45,4 @@ _A diagram of the application’s class structure will be shown here._
 </p>
 
 ---
-
-## 📂 Project Structure
+[Source Code](https://github.com/airtimeEnthusiast/Class-Attedence-Visualizer-)
