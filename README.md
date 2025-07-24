@@ -41,7 +41,7 @@ A Java desktop application for loading, displaying, and analyzing student attend
 _A diagram of the application’s class structure will be shown here._
 
 <p>
-  <img src="Class_Diagram.png?raw=true" width="600"/
+  <img src="Class_Diagram.png?raw=true"/
 </p>
 
 ---
