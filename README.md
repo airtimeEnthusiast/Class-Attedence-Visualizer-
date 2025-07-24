@@ -43,4 +43,4 @@ A Java desktop application for loading, displaying, and analyzing student attend
 </p>
 
 ---
-[Source Code](https://github.com/airtimeEnthusiast/Class-Attedence-Visualizer-)
+[Source Code](https://github.com/airtimeEnthusiast/CSV-DataVisualizer)
